@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Enemies
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: c7c1f13fbf0727d489941e61ecceb40e, type: 3}
+    - {fileID: 2800000, guid: bfb3f0d892972904ea8585b87b9c401a, type: 3}
+    - {fileID: 2800000, guid: e39ec0aeacac2a74aa6f4a0cd041a7fc, type: 3}
+    - {fileID: 2800000, guid: 025fd7503eb9b6f43af44099d5635f80, type: 3}
+    - {fileID: 2800000, guid: 34518918b8fa3024782d830ca731c507, type: 3}
+    - {fileID: 2800000, guid: a74ef4c707952e34d913a06d46170ace, type: 3}
+    - {fileID: 2800000, guid: 91a0a9ba0b8ea60429c84fb7f4bc1429, type: 3}
+    totalSpriteSurfaceArea: 2621440
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 025fd7503eb9b6f43af44099d5635f80, type: 3}
+  - {fileID: 21300000, guid: a74ef4c707952e34d913a06d46170ace, type: 3}
+  - {fileID: 21300000, guid: 34518918b8fa3024782d830ca731c507, type: 3}
+  - {fileID: 21300000, guid: bfb3f0d892972904ea8585b87b9c401a, type: 3}
+  - {fileID: 21300000, guid: 91a0a9ba0b8ea60429c84fb7f4bc1429, type: 3}
+  - {fileID: 21300000, guid: e39ec0aeacac2a74aa6f4a0cd041a7fc, type: 3}
+  - {fileID: 21300000, guid: c7c1f13fbf0727d489941e61ecceb40e, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - D
+  - F
+  - E
+  - B
+  - G
+  - C
+  - A
+  m_RenderDataMap: {}
+  m_Tag: Enemies
+  m_IsVariant: 0
